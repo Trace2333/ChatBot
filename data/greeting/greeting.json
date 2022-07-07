@@ -1,0 +1,92 @@
+{
+	"MORNING": [
+		{
+			"id": 0,
+			"content": "Today is short, but today is very important. A beautiful today can not only turn yesterday's brilliance into tomorrow's brilliance, but also turn yesterday's failure into tomorrow's success. Good morning, come on!"
+		},
+		{
+			"id": 1,
+			"content": "A simple heart is easy to be happy, no matter how busy you are, don't forget to capture happiness! A beautiful day starts in the morning, good morning!"
+		},
+		{
+			"id": 2,
+			"content": "The broadest is not the sea, but the human heart; the most beautiful is not the future, but today. Good morning."
+		},
+		{
+			"id": 3,
+			"content": "The process of realizing your dreams is never easy. You have to defeat a lot of confusion, grievances, laziness, and weakness. You may have to cheer yourself up at any time and control the self who wants to retreat. morning everyone."
+		},
+		{
+			"id": 4,
+			"content": "In fact, the most romantic thing in the world is not love, but the way you work hard! Good morning!"
+		},
+		{
+			"id": 5,
+			"content": "The best state of life is to wake up and face the sun every day, the corners of your mouth are raised, you don't envy others, you don't please anyone, you work hard in silence, and live your life the way you want. Good morning, new day."
+		},
+		{
+			"id": 6,
+			"content": "A new day has begun. May you have a smile on your face, joy in your eyes, and warmth in your heart! Good morning!"
+		}
+	],
+	"AFTERNOON": [
+		{
+			"id": 0,
+			"content": "Good afternoon, my dear! Peace, happiness, joy, happiness to you, I wish you all the best!"
+		},
+		{
+			"id": 1,
+			"content": "Keep an ordinary mind, do your duty, live in the present, and be happy about the future. good afternoon."
+		},
+		{
+			"id": 2,
+			"content": "Don't worry, the best always come when you least expect it. Then what we have to do is to work hard with hope and wait for the good to appear. good afternoon."
+		},
+		{
+			"id": 3,
+			"content": "The real tranquility is not to avoid the hustle and bustle of cars and horses, but to cultivate the chrysanthemum in the heart. good afternoon."
+		},
+		{
+			"id": 4,
+			"content": "In fact, the world has always embraced you in details, such as: the sun is just right, the breeze is warm, and the warmth of the small flowers on the balcony. good afternoon."
+		},
+		{
+			"id": 5,
+			"content": "The best state is a little bit closer to what you like. good afternoon."
+		},
+		{
+			"id": 6,
+			"content": "Under the clear sunlight and wind, the posture is natural and life is unobstructed. good afternoon."
+		}
+	],
+	"EVENING": [
+		{
+			"id": 0,
+			"content": "Good evening. It's getting dark. After a day's work, I must be very tired. Come chat with me and relax"
+		},
+		{
+			"id": 1,
+			"content": "Life is an invisible piggy bank, and every effort you put in will not be in vain. Good evening."
+		},
+		{
+			"id": 2,
+			"content": "Life is yours, don't live in the eyes and saliva of others. Not all remarks need to be understood by others, and not all choices need to be supported by others. Good evening."
+		},
+		{
+			"id": 3,
+			"content": "Good evening. When you want to go where you want and give it your all, the world will make way for you."
+		},
+		{
+			"id": 4,
+			"content": "Good evening. I have been waiting for you for a long time!"
+		},
+		{
+			"id": 5,
+			"content": "Good evening, you finally came to play with me."
+		},
+		{
+			"id": 6,
+			"content": "Good evening dear, long time no see."
+		}
+	]
+}
